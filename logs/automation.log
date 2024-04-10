@@ -1,0 +1,35 @@
+19:36:43.396 [main] INFO  Test_Cases.TS_01_CabBooking - Screenshot Captured
+19:36:43.480 [main] INFO  Test_Cases.TS_01_CabBooking - Minimum price is read and printed
+19:36:45.842 [main] INFO  Test_Cases.TS_01_CabBooking - Returned to MakeMyTrip Home page
+19:37:02.389 [main] INFO  Test_Cases.TS_01_CabBooking - Kolkata is put in 'from' City
+19:37:04.930 [main] INFO  Test_Cases.TS_01_CabBooking - Shimla is put in 'to' City
+19:37:05.300 [main] INFO  Test_Cases.TS_01_CabBooking - Date picked successfully
+19:37:08.778 [main] INFO  Test_Cases.TS_01_CabBooking - Time selected successfully
+19:37:09.213 [main] INFO  Test_Cases.TS_01_CabBooking - Screenshot Captured
+19:37:13.536 [main] INFO  Test_Cases.TS_01_CabBooking - Search option clicked
+19:37:23.619 [main] INFO  Test_Cases.TS_01_CabBooking - SUV clickbox selected
+19:37:23.867 [main] INFO  Test_Cases.TS_01_CabBooking - Screenshot Captured
+19:37:23.961 [main] INFO  Test_Cases.TS_01_CabBooking - Minimum price is read and printed
+19:37:27.693 [main] INFO  Test_Cases.TS_01_CabBooking - Returned to MakeMyTrip Home page
+19:37:52.212 [main] INFO  Test_Cases.TS_02_HotelAdultCount - Switch to PopUp Frame
+19:37:54.274 [main] INFO  Test_Cases.TS_02_HotelAdultCount - Close the PopUp window
+19:37:56.365 [main] INFO  Test_Cases.TS_02_HotelAdultCount - Switch back to main window
+19:37:56.365 [main] INFO  Test_Cases.TS_02_HotelAdultCount - PopUp Handled Successfully
+19:37:56.997 [main] INFO  Test_Cases.TS_02_HotelAdultCount - Clicked on Hotel tab
+19:38:01.906 [main] INFO  Test_Cases.TS_02_HotelAdultCount - All element in list is printed in Console
+19:38:02.354 [main] INFO  Test_Cases.TS_02_HotelAdultCount - Screenshot of adult List taken
+19:38:23.550 [main] INFO  Test_Cases.TS_03_GiftCard - Switch to PopUp Frame
+19:38:25.594 [main] INFO  Test_Cases.TS_03_GiftCard - Close the PopUp window
+19:38:27.790 [main] INFO  Test_Cases.TS_03_GiftCard - Switch back to main window
+19:38:27.790 [main] INFO  Test_Cases.TS_03_GiftCard - PopUp Handled Successfully
+19:38:28.661 [main] INFO  Test_Cases.TS_03_GiftCard - Clicked on Gift Card Button
+19:38:29.126 [main] INFO  Test_Cases.TS_03_GiftCard - Switched to Gift Card Window
+19:38:42.641 [main] INFO  Test_Cases.TS_03_GiftCard - Random Gift Card selected
+19:38:44.120 [main] INFO  Test_Cases.TS_03_GiftCard - Multiple Gift Card option selected
+19:38:44.328 [main] INFO  Test_Cases.TS_03_GiftCard - Gift card given to multiple people
+19:38:56.220 [main] INFO  Test_Cases.TS_03_GiftCard - Random phone number given
+19:38:57.319 [main] INFO  Test_Cases.TS_03_GiftCard - Sender info filled in form
+19:38:57.672 [main] INFO  Test_Cases.TS_03_GiftCard - Buy Now botton is clicked
+19:39:08.639 [main] INFO  Test_Cases.TS_03_GiftCard - Screenshot of error message is taken
+19:39:08.640 [main] INFO  Test_Cases.TS_03_GiftCard - Error message is read and printed in console
+19:39:08.640 [main] INFO  Test_Cases.TS_03_GiftCard - Assertion is done successfully

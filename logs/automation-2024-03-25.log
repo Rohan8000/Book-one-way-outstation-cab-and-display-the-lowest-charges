@@ -1,0 +1,48 @@
+19:35:48.234 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+19:35:48.282 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+19:35:48.285 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+19:35:48.697 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+19:35:48.703 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+19:35:49.046 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+19:35:49.144 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+19:35:49.461 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+19:35:49.464 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+19:35:49.707 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+19:35:49.709 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+19:35:49.981 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+19:35:49.982 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+19:35:50.078 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+19:35:50.082 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+19:35:50.181 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+19:35:50.184 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+19:35:50.222 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+19:35:50.223 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+19:35:50.267 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+19:35:50.269 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+19:35:50.311 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+19:35:50.312 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+19:35:50.544 [main] INFO  Test_Cases.TS_01_CabBooking - Switch to PopUp Frame
+19:35:52.722 [main] INFO  Test_Cases.TS_01_CabBooking - Close the PopUp window
+19:35:54.749 [main] INFO  Test_Cases.TS_01_CabBooking - Switch back to main window
+19:35:54.750 [main] INFO  Test_Cases.TS_01_CabBooking - PopUp Handled Successfully
+19:36:01.931 [main] INFO  Test_Cases.TS_01_CabBooking - Delhi is put in 'from' City
+19:36:04.566 [main] INFO  Test_Cases.TS_01_CabBooking - Manali is put in 'to' City
+19:36:05.191 [main] INFO  Test_Cases.TS_01_CabBooking - Date picked successfully
+19:36:08.994 [main] INFO  Test_Cases.TS_01_CabBooking - Time selected successfully
+19:36:09.464 [main] INFO  Test_Cases.TS_01_CabBooking - Screenshot Captured
+19:36:14.810 [main] INFO  Test_Cases.TS_01_CabBooking - Search option clicked
+19:36:15.839 [main] INFO  Test_Cases.TS_01_CabBooking - SUV clickbox selected
+19:36:16.168 [main] INFO  Test_Cases.TS_01_CabBooking - Screenshot Captured
+19:36:16.261 [main] INFO  Test_Cases.TS_01_CabBooking - Minimum price is read and printed
+19:36:18.709 [main] INFO  Test_Cases.TS_01_CabBooking - Returned to MakeMyTrip Home page
+19:36:20.682 [main] INFO  Test_Cases.TS_01_CabBooking - Switch to PopUp Frame
+19:36:22.722 [main] INFO  Test_Cases.TS_01_CabBooking - Close the PopUp window
+19:36:24.731 [main] INFO  Test_Cases.TS_01_CabBooking - Switch back to main window
+19:36:24.731 [main] INFO  Test_Cases.TS_01_CabBooking - PopUp Handled Successfully
+19:36:30.384 [main] INFO  Test_Cases.TS_01_CabBooking - Pune is put in 'from' City
+19:36:32.943 [main] INFO  Test_Cases.TS_01_CabBooking - Mumbai is put in 'to' City
+19:36:33.287 [main] INFO  Test_Cases.TS_01_CabBooking - Date picked successfully
+19:36:36.741 [main] INFO  Test_Cases.TS_01_CabBooking - Time selected successfully
+19:36:37.191 [main] INFO  Test_Cases.TS_01_CabBooking - Screenshot Captured
+19:36:41.022 [main] INFO  Test_Cases.TS_01_CabBooking - Search option clicked
+19:36:43.020 [main] INFO  Test_Cases.TS_01_CabBooking - SUV clickbox selected

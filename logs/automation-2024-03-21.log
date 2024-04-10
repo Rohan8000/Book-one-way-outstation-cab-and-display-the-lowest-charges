@@ -1,0 +1,60 @@
+14:17:09.029 [TestNG-tests-2] INFO  Test_Cases.TS_02_HotelAdultCount - Clicked on Hotel tab
+14:17:20.906 [TestNG-tests-1] INFO  Test_Cases.TS_02_HotelAdultCount - Clicked on Hotel tab
+14:21:13.825 [main] INFO  Test_Cases.TS_01_CabBooking - Switch to PopUp Frame
+14:21:13.897 [main] INFO  Test_Cases.TS_01_CabBooking - Close the PopUp window
+14:21:15.916 [main] INFO  Test_Cases.TS_01_CabBooking - Switch back to main window
+14:21:15.916 [main] INFO  Test_Cases.TS_01_CabBooking - PopUp Handled Successfully
+14:21:20.910 [main] INFO  Test_Cases.TS_01_CabBooking - Delhi is put in from City
+14:21:21.974 [main] INFO  Test_Cases.TS_01_CabBooking - Manali is put in to City
+14:21:22.355 [main] INFO  Test_Cases.TS_01_CabBooking - Date picked successfully
+14:21:23.471 [main] INFO  Test_Cases.TS_01_CabBooking - Time selected successfully
+14:21:23.793 [main] INFO  Test_Cases.TS_01_CabBooking - Screenshot Captured
+14:21:26.473 [main] INFO  Test_Cases.TS_01_CabBooking - Search option clicked
+14:21:28.854 [main] INFO  Test_Cases.TS_01_CabBooking - SUV clickbox selected
+14:21:29.228 [main] INFO  Test_Cases.TS_01_CabBooking - Screenshot Captured
+14:21:29.304 [main] INFO  Test_Cases.TS_01_CabBooking - Minimum price is read and printed
+14:21:44.955 [main] INFO  Test_Cases.TS_02_HotelAdultCount - Switch to PopUp Frame
+14:21:45.009 [main] INFO  Test_Cases.TS_02_HotelAdultCount - Close the PopUp window
+14:21:45.016 [main] INFO  Test_Cases.TS_02_HotelAdultCount - Switch back to main window
+14:21:45.016 [main] INFO  Test_Cases.TS_02_HotelAdultCount - PopUp Handled Successfully
+14:21:46.214 [main] INFO  Test_Cases.TS_02_HotelAdultCount - Clicked on Hotel tab
+14:21:49.067 [main] INFO  Test_Cases.TS_02_HotelAdultCount - All element in list is printed in Console
+14:21:49.415 [main] INFO  Test_Cases.TS_02_HotelAdultCount - Screenshot of adult List taken
+14:22:04.406 [main] INFO  Test_Cases.TS_03_GiftCard - Switch to PopUp Frame
+14:22:04.450 [main] INFO  Test_Cases.TS_03_GiftCard - Close the PopUp window
+14:22:04.456 [main] INFO  Test_Cases.TS_03_GiftCard - Switch back to main window
+14:22:04.456 [main] INFO  Test_Cases.TS_03_GiftCard - PopUp Handled Successfully
+14:22:05.620 [main] INFO  Test_Cases.TS_03_GiftCard - Clicked on Gift Card Button
+14:22:05.697 [main] INFO  Test_Cases.TS_03_GiftCard - Switched to Gift Card Window
+14:22:08.025 [main] INFO  Test_Cases.TS_03_GiftCard - Random Gift Card selected
+14:22:09.176 [main] INFO  Test_Cases.TS_03_GiftCard - Multiple Gift Card option selected
+14:22:09.374 [main] INFO  Test_Cases.TS_03_GiftCard - Gift card given to multiple people
+14:22:10.284 [main] INFO  Test_Cases.TS_03_GiftCard - Random phone number given
+14:22:10.963 [main] INFO  Test_Cases.TS_03_GiftCard - Sender info filled in form
+14:22:11.222 [main] INFO  Test_Cases.TS_03_GiftCard - Buy Now botton is clicked
+14:22:11.819 [main] INFO  Test_Cases.TS_03_GiftCard - Screenshot of error message is taken
+14:22:11.819 [main] INFO  Test_Cases.TS_03_GiftCard - Error message is read and printed in console
+14:22:11.828 [main] INFO  Test_Cases.TS_03_GiftCard - Assertion is done successfully
+14:22:31.449 [main] INFO  Test_Cases.TS_01_CabBooking - Switch to PopUp Frame
+14:22:31.502 [main] INFO  Test_Cases.TS_01_CabBooking - Close the PopUp window
+14:22:33.511 [main] INFO  Test_Cases.TS_01_CabBooking - Switch back to main window
+14:22:33.511 [main] INFO  Test_Cases.TS_01_CabBooking - PopUp Handled Successfully
+14:22:38.634 [main] INFO  Test_Cases.TS_01_CabBooking - Delhi is put in from City
+14:22:39.703 [main] INFO  Test_Cases.TS_01_CabBooking - Manali is put in to City
+14:22:40.117 [main] INFO  Test_Cases.TS_01_CabBooking - Date picked successfully
+14:22:41.414 [main] INFO  Test_Cases.TS_01_CabBooking - Time selected successfully
+14:22:41.762 [main] INFO  Test_Cases.TS_01_CabBooking - Screenshot Captured
+14:22:44.914 [main] INFO  Test_Cases.TS_01_CabBooking - Search option clicked
+14:22:46.564 [main] INFO  Test_Cases.TS_01_CabBooking - SUV clickbox selected
+14:22:46.863 [main] INFO  Test_Cases.TS_01_CabBooking - Screenshot Captured
+14:22:46.909 [main] INFO  Test_Cases.TS_01_CabBooking - Minimum price is read and printed
+14:23:06.461 [main] INFO  Test_Cases.TS_02_HotelAdultCount - Switch to PopUp Frame
+14:23:06.508 [main] INFO  Test_Cases.TS_02_HotelAdultCount - Close the PopUp window
+14:23:06.519 [main] INFO  Test_Cases.TS_02_HotelAdultCount - Switch back to main window
+14:23:06.519 [main] INFO  Test_Cases.TS_02_HotelAdultCount - PopUp Handled Successfully
+14:23:07.742 [main] INFO  Test_Cases.TS_02_HotelAdultCount - Clicked on Hotel tab
+14:23:10.687 [main] INFO  Test_Cases.TS_02_HotelAdultCount - All element in list is printed in Console
+14:23:11.041 [main] INFO  Test_Cases.TS_02_HotelAdultCount - Screenshot of adult List taken
+14:23:29.949 [main] INFO  Test_Cases.TS_03_GiftCard - Switch to PopUp Frame
+14:23:29.999 [main] INFO  Test_Cases.TS_03_GiftCard - Close the PopUp window
+14:23:30.015 [main] INFO  Test_Cases.TS_03_GiftCard - Switch back to main window

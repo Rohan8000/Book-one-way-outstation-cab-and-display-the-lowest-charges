@@ -1,0 +1,53 @@
+01:46:23.678 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+01:46:23.699 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+01:46:23.730 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+01:46:23.731 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+01:46:23.785 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+01:46:23.787 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+01:46:23.844 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+01:46:23.845 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+01:46:23.924 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+01:46:23.926 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+01:46:23.994 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+01:46:23.995 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+01:46:40.190 [main] INFO  Test_Cases.TS_01_CabBooking - Delhi is put in 'from' City
+01:46:42.803 [main] INFO  Test_Cases.TS_01_CabBooking - Manali is put in 'to' City
+01:46:43.604 [main] INFO  Test_Cases.TS_01_CabBooking - Date picked successfully
+01:46:47.241 [main] INFO  Test_Cases.TS_01_CabBooking - Time selected successfully
+01:46:47.761 [main] INFO  Test_Cases.TS_01_CabBooking - Screenshot Captured
+01:46:53.536 [main] INFO  Test_Cases.TS_01_CabBooking - Search option clicked
+01:46:54.953 [main] INFO  Test_Cases.TS_01_CabBooking - SUV clickbox selected
+01:46:55.372 [main] INFO  Test_Cases.TS_01_CabBooking - Screenshot Captured
+01:46:55.513 [main] INFO  Test_Cases.TS_01_CabBooking - Minimum price is read and printed
+01:46:58.190 [main] INFO  Test_Cases.TS_01_CabBooking - Returned to MakeMyTrip Home page
+01:47:15.866 [main] INFO  Test_Cases.TS_01_CabBooking - Pune is put in 'from' City
+01:47:18.460 [main] INFO  Test_Cases.TS_01_CabBooking - Mumbai is put in 'to' City
+01:47:18.855 [main] INFO  Test_Cases.TS_01_CabBooking - Date picked successfully
+01:47:22.526 [main] INFO  Test_Cases.TS_01_CabBooking - Time selected successfully
+01:47:23.046 [main] INFO  Test_Cases.TS_01_CabBooking - Screenshot Captured
+01:47:27.771 [main] INFO  Test_Cases.TS_01_CabBooking - Search option clicked
+01:47:29.555 [main] INFO  Test_Cases.TS_01_CabBooking - SUV clickbox selected
+01:47:29.964 [main] INFO  Test_Cases.TS_01_CabBooking - Screenshot Captured
+01:47:30.088 [main] INFO  Test_Cases.TS_01_CabBooking - Minimum price is read and printed
+01:47:32.969 [main] INFO  Test_Cases.TS_01_CabBooking - Returned to MakeMyTrip Home page
+01:47:50.549 [main] INFO  Test_Cases.TS_01_CabBooking - Kolkata is put in 'from' City
+01:47:53.122 [main] INFO  Test_Cases.TS_01_CabBooking - Shimla is put in 'to' City
+01:47:53.520 [main] INFO  Test_Cases.TS_01_CabBooking - Date picked successfully
+01:47:57.154 [main] INFO  Test_Cases.TS_01_CabBooking - Time selected successfully
+01:47:57.666 [main] INFO  Test_Cases.TS_01_CabBooking - Screenshot Captured
+01:48:01.424 [main] INFO  Test_Cases.TS_01_CabBooking - Search option clicked
+01:48:11.444 [main] INFO  Test_Cases.TS_01_CabBooking - SUV clickbox selected
+01:48:11.809 [main] INFO  Test_Cases.TS_01_CabBooking - Screenshot Captured
+01:48:11.934 [main] INFO  Test_Cases.TS_01_CabBooking - Minimum price is read and printed
+01:48:14.784 [main] INFO  Test_Cases.TS_01_CabBooking - Returned to MakeMyTrip Home page
+01:48:50.167 [main] INFO  Test_Cases.TS_02_HotelAdultCount - Clicked on Hotel tab
+01:48:54.099 [main] INFO  Test_Cases.TS_02_HotelAdultCount - All element in list is printed in Console
+01:48:54.485 [main] INFO  Test_Cases.TS_02_HotelAdultCount - Screenshot of adult List taken
+01:49:25.406 [main] INFO  Test_Cases.TS_03_GiftCard - Clicked on Gift Card Button
+01:49:25.613 [main] INFO  Test_Cases.TS_03_GiftCard - Switched to Gift Card Window
+01:49:39.994 [main] INFO  Test_Cases.TS_03_GiftCard - Random Gift Card selected
+01:49:41.727 [main] INFO  Test_Cases.TS_03_GiftCard - Multiple Gift Card option selected
+01:49:42.048 [main] INFO  Test_Cases.TS_03_GiftCard - Gift card given to multiple people
+01:49:54.753 [main] INFO  Test_Cases.TS_03_GiftCard - Random phone number given
+01:49:56.075 [main] INFO  Test_Cases.TS_03_GiftCard - Sender info filled in form
+01:49:56.615 [main] INFO  Test_Cases.TS_03_GiftCard - Buy Now botton is clicked
